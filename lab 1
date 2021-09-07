@@ -1,0 +1,32 @@
+print(6%2)
+print(6**6)
+print(6+10*10+6)
+print((2**2)+(9/3))
+
+x=10
+abcdef=10.2
+print(x)
+print(x-20)
+
+x='This is a string'
+print(x)
+
+x="True"
+print(x)
+
+x=10.9
+print(type(x))
+
+print('Hello World')
+
+print('There wil be an additional \n line to this sente \n ***nce')
+
+marks_obtained=75
+total_points=100
+percentage=(marks_obtained/total_points)*100
+print(percentage)
+
+x='I am a UB student'
+print(x[0])
+print(x[3])
+print(x[-3])
